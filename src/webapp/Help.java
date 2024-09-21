@@ -6,4 +6,7 @@ public class Help {
     //email for help
     //......
     //.....
+
+    //phone number
+    //chat
 }
