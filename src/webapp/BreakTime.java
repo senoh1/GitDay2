@@ -1,9 +1,10 @@
 package webapp;
 
 public class BreakTime {
-    // break time
+    //it is a break time, time to do something fun
 
-    //time to watch movie
+    //you can  watch a new action movie
 
-    //watching new action movie
+    //or you can read a book
+
 }
